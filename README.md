@@ -13,9 +13,10 @@ FollowSpotControl бесплатен; при установке он показ�
 соглашение (EULA). Сайт —
 [followspotcontrol.stagevision.kz](https://followspotcontrol.stagevision.kz).
 
-- **macOS** — `FollowSpotControl.<версия>.dmg`: перетащите программу в
-  Applications; текст соглашения лежит в образе рядом с ней. Нужны macOS
-  14.4 или новее и Mac на Apple Silicon.
+- **macOS** — `FollowSpotControl.<версия>.dmg` для Mac на Apple Silicon,
+  `FollowSpotControl.<версия>.Intel.dmg` для Mac на Intel (с 5.2.2):
+  перетащите программу в Applications; текст соглашения лежит в образе
+  рядом с ней. Нужна macOS 14.4 или новее.
 - **Windows** — `FollowSpotControl.<версия>.exe`: ставит программу в Program
   Files, добавляет ярлык, открытие `.bvs` двойным щелчком и правила
   брандмауэра для Art-Net и NDI®. NDI на Windows берётся из NDI Runtime
